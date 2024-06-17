@@ -1,0 +1,37 @@
+body{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+#uno{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+#dos{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+#tres{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+#cuatro{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+#ele1{
+    width: 200px;
+    height: 200px;
+    border: 1px solid orange;
+}
+#key{
+    width: 200px;
+    height: 200px;
+    background: white;
+    border: 2px dashed black;
+}
